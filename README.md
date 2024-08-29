@@ -1,4 +1,7 @@
-Personal code produced during my 2024 disease modelling internship at the Big Data Institute.
+# Vaccine equity and trachoma resurgence
+
+Code developed during my 2024 BDI internship
+
 The aim is to gradually add features to models to explore their effect and stimulate new questions to ask.
 
 'The Sandbox' is my experimental modelling file built from the ground up.
